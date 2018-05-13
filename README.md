@@ -5,3 +5,5 @@
   
   
 ![demo](https://github.com/gobackhuoxing/Cellular-Automaton-CSYE6200/blob/master/picture/DEMO.PNG)
+  
+This repo is under MIT License: https://opensource.org/licenses/MIT
